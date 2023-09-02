@@ -265,7 +265,7 @@ class BANANAS():
 
         query = self.num_init
 
-        while query <= 155:
+        while query <= 150:
 
             xtrain = np.array([d.encoding for d in data])
             ytrain = np.array([(1 - d.fitness) * 100 for d in data])

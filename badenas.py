@@ -320,7 +320,7 @@ class BANANAS():
     def evolve_generation(self, predictor=None, num_ensemble = 5):
         query = self.pop_size
 
-        while query <= 160:
+        while query <= 150:
 
             Pnext = []
             generation_candidates = [] # Store all candidates in current generation
