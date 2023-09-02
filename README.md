@@ -8,7 +8,7 @@ Abstract: Retinal vessel segmentation is an important task for analyzing retinal
 
 ## Dataset
 
-DRIVE: [Link]([https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0])<br>
+DRIVE: [Link](https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0)<br>
 You should put the DRIVE folder into the ./DataSets/.
 
 ## Use
