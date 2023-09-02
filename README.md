@@ -8,7 +8,7 @@ Abstract: Retinal vessel segmentation is an important task for analyzing retinal
 
 ## Dataset
 
-DRIVE: [Link]([https://zenodo.org/record/7383295](https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0])<br>
+DRIVE: [Link]([https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0])<br>
 You should put the DRIVE folder into the ./DataSets/.
 
 ## Use
@@ -16,6 +16,7 @@ You should put the DRIVE folder into the ./DataSets/.
   ```
   please look into ./bananas.py
   please look into ./badenas.py
+  please look into ./de.py
   ```
 - for long-term evaluation
   ```
